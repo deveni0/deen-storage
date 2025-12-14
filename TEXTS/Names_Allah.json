@@ -2,7 +2,9 @@
     {
         "id": 1,
         "name":"اللَّهُ",
-        "text":"وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته سبحانه"
+        "text":"وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته سبحانه",
+        "name_en": "Allah",
+        "text_en": "It is the Greatest Name by which the Absolute Truth, Glorified and Exalted, is uniquely distinguished, reserved exclusively for Himself. He made it the first of His Names and attributed all the other Names to it, so it stands as a proper name for His Divine Essence."
     },
     {
         "id": 2,
