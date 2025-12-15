@@ -1,0 +1,152 @@
+[
+            {
+                "id": 1,
+                "title": "تسابيح - سبحان الله",
+                "adhkar": "سُبْحَانَ اللَّهِ",
+                "pronunciation": "Subhanallah",
+                "translation": "Glory is to Allah",
+                "description": "يكتب له ألف حسنة أو يحط عنه ألف خطيئة",
+                "source": "مسلم (٤/ ٢٠٧٣) [برقم (٢٦٩٨)]",
+                "repetition": 100
+            },
+            {
+                "id": 2,
+                "title": "تسابيح - سبحان الله وبحمده",
+                "adhkar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+                "pronunciation": "Subhanallahi wa bihamdih",
+                "translation": "Glory is to Allah and praise is to Him",
+                "description": "حُطَّتْ خَطَايَاهُ وَإِنْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ. لَمْ يَأْتِ أَحَدٌ يَوْمَ الْقِيَامَةِ بِأَفْضَلَ مِمَّا جَاءَ بِهِ إِلَّا أَحَدٌ قَالَ مِثْلَ مَا قَالَ أَوْ زَادَ عَلَيْهِ",
+                "source": "رواه مسلم في صحيحه برقم (٢٦٩١)",
+                "repetition": 100
+            },
+            {
+                "id": 3,
+                "title": "تسابيح - سباحن الله والحمد الله",
+                "adhkar": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ",
+                "pronunciation": "Subhanallahi walhamdu lillah",
+                "translation": "Glory is to Allah, and praise is to Allah",
+                "description": "تَمْلَآَنِ مَا بَيْنَ السَّمَاوَاتِ وَالْأَرْضِ",
+                "source": "رواه الإمام مسلم في صحيحه برقم: ٢٢٣",
+                "repetition": 100
+            },
+            {
+                "id": 4,
+                "title": "تسابيح - سبحان الله العظيم وبحمده",
+                "adhkar": "سُبْحَانَ اللهِ العَظِيمِ وَبِحَمْدِهِ",
+                "pronunciation": "Subhanallahi al-'Adheemi wa bihamdih",
+                "translation": "Glory is to Allah the Most Great and praise is to Him",
+                "description": "غرست له نخلة في الجنة (اي عدد)",
+                "source": "أخرجه الترمذي (٣٤٦٤)",
+                "repetition": 100
+            },
+            {
+                "id": 5,
+                "title": "تسابيح - سبحان الله وبحمده سبحان الله العظيم",
+                "adhkar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+                "pronunciation": "Subhanallahi wa bihamdih, Subhanallahi al-'Adheem",
+                "translation": "Glory is to Allah and praise is to Him, Glory is to Allah the Most Great",
+                "description": "ثقيلتان في الميزان حبيبتان إلى الرحمن (أى عدد)",
+                "source": " البخاري (٦٦٨٢)، ومسلم (٢٦٩٤)، والترمذي (٣٤٦٧)",
+                "repetition": 100
+            },
+            {
+                "id": 6,
+                "title": "تسابيح - لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شي قدير",
+                "adhkar": "لَا إلَه إلّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلُّ شَيْءِ قَدِيرِ",
+                "pronunciation": "La ilaha illallahu wahdahu la shareeka lah, lahul-mulku wa lahul-hamd, wa huwa 'ala kulli shay'in qadeer",
+                "translation": "None has the right to be worshipped but Allah alone, with no partner. His is the dominion and His is the praise, and He is Able to do all things",
+                "description": "كانت له عدل عشر رقاب، وكتبت له مئة حسنة، ومحيت عنه مئة سيئة، وكانت له حرزا من الشيطان",
+                "source": "رواه البخاري ومسلم والترمذي والنسائي وابن ماجه",
+                "repetition": 100
+            },
+            {
+                "id": 7,
+                "title": "تسابيح - الحمد الله رب العالمين",
+                "adhkar": "الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ",
+                "pronunciation": "Alhamdu lillahi Rabbil-'alameen",
+                "translation": "All praise is for Allah, Lord of the worlds",
+                "description": "تملأ ميزان العبد بالحسنات",
+                "source": " مسلم (٢٢٣) والترمذي (٣٥١٧)",
+                "repetition": 100
+            },
+            {
+                "id": 8,
+                "title": "تسابيح - لا حول ولا قوة إلا بالله",
+                "adhkar": "لا حَوْلَ وَلا قُوَّةَ إِلا بِاللَّهِ",
+                "pronunciation": "La hawla wa la quwwata illa billah",
+                "translation": "There is no power and no strength except with Allah",
+                "description": "كنز من كنوز الجنة (أى عدد)",
+                "source": "صحيح البخاري (٥/ ١٧٠) برقم (٤٢٠٥) وسنن ابن ماجة (٢/ ١٢٥٦) برقم (٣٨٢٥)",
+                "repetition": 100
+            },
+            {
+                "id": 9,
+                "title": "تسابيح - اللهم صل وسلم وبارك على نبينا محمد",
+                "adhkar": "الْلَّهُم صَلِّ وَسَلِم وَبَارِك عَلَى سَيِّدِنَا مُحَمَّد",
+                "pronunciation": "Allahumma salli wa sallim wa barik 'ala sayyidina Muhammad",
+                "translation": "O Allah, send prayers, peace, and blessings upon our Master Muhammad",
+                "description": "من صلى على حين يصبح عشر وحين يمسى عشر ادركته شفاعتى يوم القيامة",
+                "source": "صحيح الجامع (٦٣٥٧)",
+                "repetition": 10
+            },
+            {
+                "id": 10,
+                "title": "تسابيح - أستغفر الله",
+                "adhkar": "أستغفر الله",
+                "pronunciation": "Astaghfirullah",
+                "translation": "I seek Allah's forgiveness",
+                "description": "لفعل الرسول صلى الله عليه وسلم",
+                "source": "أخرجه البخاري برقم (٦٣٠٧)",
+                "repetition": 100
+            },
+            {
+                "id": 11,
+                "title": "تسابيح - سبحان الله والحمد الله ولا إله إلا الله والله أكبر",
+                "adhkar": "سُبْحَانَ الْلَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا الْلَّهُ، وَالْلَّهُ أَكْبَرُ",
+                "pronunciation": "Subhanallah, walhamdu lillah, wa la ilaha illallah, wallahu akbar",
+                "translation": "Glory is to Allah, and praise is to Allah, and none has the right to be worshipped but Allah, and Allah is the Greatest",
+                "description": "أنهن أحب الكلام الى الله، ومكفرات للذنوب، وغرس الجنة، وجنة لقائلهن من النار، وأحب الى النبي عليه السلام مما طلعت عليه الشمس، والباقيات الصالحات",
+                "source": "أخرجه مسلم برقم (٢١٣٧) و (٢٦٩٥)",
+                "repetition": 100
+            },
+            {
+                "id": 12,
+                "title": "تسابيح - لا إله إلا الله",
+                "adhkar": "لَا إِلَهَ إِلَّا اللَّهُ",
+                "pronunciation": "La ilaha illallah",
+                "translation": "None has the right to be worshipped but Allah",
+                "description": "أفضل الذكر لا إله إلاّ الله",
+                "source": "الترمذي (٣٣٨٣)",
+                "repetition": 100
+            },
+            {
+                "id": 13,
+                "title": "تسابيح - الله أكبر",
+                "adhkar": "الْلَّهُ أَكْبَرُ",
+                "pronunciation": "Allahu akbar",
+                "translation": "Allah is the Greatest",
+                "description": "من قال الله أكبر كتبت له عشرون حسنة وحطت عنه عشرون سيئة",
+                "source": "صحيح، مسند الإِمام أحمد: ٢/ ٣١٠",
+                "repetition": 100
+            },
+            {
+                "id": 14,
+                "title": "تسابيح - الحمد الله حمدا كثيرا طيبا مباركا فيه",
+                "adhkar": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
+                "pronunciation": "Alhamdu lillahi hamdan katheera tayyiban mubarakan feeh",
+                "translation": "All praise is for Allah, much, pure, blessed praise",
+                "description": "قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ‏‏لَقَدْ رَأَيْتُ اثْنَيْ عَشَرَ مَلَكًا يَبْتَدِرُونَهَا، أَيُّهُمْ يَرْفَعُهَا",
+                "source": "مسلم (٦٠٠)، وأبو داود (٧٦٣)، والنسائي (٢/ ١٣٢ ـ ١٣٣)",
+                "repetition": 100
+            },
+            {
+                "id": 15,
+                "title": "تسابيح - الله أكبر كبيرا والحمد الله كثيرا وسبحان الله بكرة وأصيلا",
+                "adhkar": "اللَّهُ أَكْبَرُ كَبِيرًا ، وَالْحَمْدُ لِلَّهِ كَثِيرًا ، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً",
+                "pronunciation": "Allahu akbar kabeera, walhamdu lillahi katheera, wa subhanallahi bukratan wa aseela",
+                "translation": "Allah is the Greatest, greatly, and praise is to Allah, much, and glory is to Allah in the morning and evening",
+                "description": "قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَجِبْتُ لَهَا ، فُتِحَتْ لَهَا أَبْوَابُ السَّمَاءِ",
+                "source": "مسلم (٦٠١)، والترمذي (٣٥٩٢)، والنسائي (٢/ ١٢٥)",
+                "repetition": 1
+            }
+        ]
