@@ -3,7 +3,7 @@
     "morning": {
         "id": 1,
         "category": "أذكار الصباح",
-        "icon": "icon/sun.png",
+        "icon": "https://raw.githubusercontent.com/deveni0/deen-storage/refs/heads/main/images/7afe3f7736d28207c3c3ef42107573fe.jpg",
         "array": [
             {
                 "id": 1,
